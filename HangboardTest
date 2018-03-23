@@ -1,0 +1,36 @@
+import time
+import datetime
+["Jug", "Sloper", "Big Pocket", "Big Crimp", "Medium Crimp", "Small Crimp", "2-finger Pocket", "Hard Pinch"]
+
+def repcountdown(n):
+    while n > 0:
+        print datetime.datetime.fromtimestamp(n).strftime('%M:%S')
+        time.sleep(1)
+        n = n - 1
+        if n == 0:
+            print ("Rest for 3 seconds")
+
+def represtcountdown(n):
+    while n > 0:
+        print datetime.datetime.fromtimestamp(n).strftime('%M:%S')
+        time.sleep(1)
+        n = n - 1
+        if n == 0:
+            print ("Get to your next hold!")
+
+def setrestcountdown(n):
+    while n > 0:
+        print datetime.datetime.fromtimestamp(n).strftime('%M:%S')
+        time.sleep(1)
+        n = n - 1
+        if n == 0:
+            print ("Start next set")
+setrestcountdown(180)
+
+print "First Set!"
+print "Jug!"
+repcountdown(7)
+print "Rest!"
+represtcountdown(3)
+time.sleep(5)
+print "Start next rep!"

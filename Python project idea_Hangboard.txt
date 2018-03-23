@@ -1,0 +1,68 @@
+Python Project Idea:
+Hangboard Strength Training Exercise
+
+
+8 sets totals
+1st set:
+8 reps- 1 on each hold: Jug, Sloper, Big Pocket, Big Crimp, Medium Crimp, Small Crimp, 2-Finger Pocket, Hard Pinch
+1 rep = 7 seconds
+RepRest = 3 seconds in between each rep
+
+SetRest = 3 minutes in between each set
+
+2nd set:
+6 reps- Big Pocket
+1 rep = 7 seconds
+RepRest = 3 seconds in between each rep
+
+SetRest = 3 minutes in between each set
+
+3rd set:
+6 reps- Medium Crimp
+1 rep = 7 seconds
+RepRest = 3 seconds in between each rep
+
+SetRest = 3 minutes in between each set
+
+4th set:
+6 reps- Sloper
+1 rep = 7 seconds
+RepRest = 3 seconds in between each rep
+
+SetRest = 3 minutes in between each set
+
+5th set:
+6 reps- Small Crimp
+1 rep = 7 seconds
+RepRest = 3 seconds in between each rep
+
+SetRest = 3 minutes in between each set
+
+6th set:
+6 reps-Jug
+1 rep = 7 seconds
+RepRest = 3 seconds in between each rep
+
+SetRest = 3 minutes in between each set
+
+7th set:
+6 reps- Hard Pinch and 2 finger pocket
+	*3 finger pockets for each hand (left/right)
+1 rep = 7 seconds
+RepRest = 3 seconds in between each rep
+
+SetRest = 3 minutes in between each set
+
+8th set:
+6 reps- Big Crimp
+1 rep = 7 seconds
+RepRest = 3 seconds in between each rep
+
+SetRest = 3 minutes in between each set
+
+7 reps of 7 seconds hanging
+followed by 3 second rest between each rep
+After all 7 reps are done rest for 3 minutes
+6 reps @ 7 secs on same hold, resting 3 secs between each- rest for 3 minutes
+**complete with 8 different holds
+e.g. Jugs, Large edge, small edge, two finger pocket, small edge, medium edge, small edge, sloper
